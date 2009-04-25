@@ -25,16 +25,16 @@ body, table, div, td, input, textarea {
 	font-size: 13px;
 	font-weight: normal;
 	line-height: 1.4em;
-	color: #BA1684;
+	color: gray;
 }
 a {
 	font-weight: normal;
 	text-decoration: none;
 }
-a:link { color: #6e396e; }
-a:visited {	color: #944d94; }
+a:link { color: #339900; }
+a:visited {	color: #339900; }
 a.action:link, a.action:visited, a.action.bad:link, a.action.bad:visited {
-	background-color: #990099;
+	background-color: #66cc33;
 	color: #fff !important;
 	font-weight:normal;
 	font-size: 12px;
@@ -169,7 +169,7 @@ ul.sortable li p {
 img {	border: 0px; }
 
 h1 {
-	color: #b960b9;
+	color: #339900;
 	font-size: 18px;
 	line-height: 35px;
 	padding-bottom:5px;
@@ -179,7 +179,7 @@ h1 {
 h1 .info {
 	font-size: 14px;
 	font-style: normal;
-	color: #B8B3AD;
+	color: #339900;
 }
 
 h1.border {
@@ -187,7 +187,7 @@ h1.border {
 }
 
 h1 a {
-	color: #f86d0a;
+	color: #339900;
 	font-weight: normal;
 	text-decoration: none;
 }
@@ -211,7 +211,7 @@ h2, h3, h4 {
 h2 {
 	font-size: 24px;
 	line-height: 28px;
-	color: #5e5e5e;
+	color: #339900;
 	font-weight: normal;
 }
 h3 {
@@ -252,7 +252,7 @@ div.padLeft {
 }
 div.price {
 	margin: 20px;
-	background-color: #990099;
+	background-color: #66cc33;
 	color: #fff;
 	font-size: 15px;
 	font-weight: normal;
